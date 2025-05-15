@@ -1,2 +1,2 @@
-ipykernel
-torch
+ipykernel==6.29.5
+torch==2.6.0+cu124

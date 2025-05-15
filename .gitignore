@@ -1,2 +1,3 @@
-notebooks/*/
+notebooks/utils/
 .venv
+__pycache__/
