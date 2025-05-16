@@ -16,7 +16,7 @@ Open a notebook from a GitHub repository as shown below.
     <img src="media/setup/SetupGoogleColab_OpenFromGithub.png" width="800"/>
 </div>
 
-Paste the URL to the GitHub repository for this work ([NextGen25 MLAI Workshop 01](https://github.com/nextgenerationgraduatesprogram/nextgen25-mlai-workshop01)) in the search field as shown below.
+Paste the URL to the GitHub repository for this workshop ([NextGen25 MLAI Workshop 01](https://github.com/nextgenerationgraduatesprogram/nextgen25-mlai-workshop01)) in the search field as shown below.
 
 <div align="center">
     <img src="media/setup/SetupGoogleColab_PasteGithubLink.png" width="800"/>
