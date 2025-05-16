@@ -1,3 +1,5 @@
 notebooks/utils/
 .venv
 __pycache__/
+*.zip
+data/
