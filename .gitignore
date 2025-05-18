@@ -1,5 +1,4 @@
-notebooks/utils/
-notebooks/__pycache__/
+notebooks/*.pyc
 utils/func.py
 .venv
 # __pycache__/
